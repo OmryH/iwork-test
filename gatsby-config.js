@@ -31,7 +31,7 @@ module.exports = {
       resolve: `gatsby-source-mysql`,
       options: {
         connectionDetails: {
-          host: 'localhost',
+          host: 'webcontrol.co.il',
           user: 'webcontrolco_iwork',
           password: '987w35Sp@',
           database: 'webcontrolco_iwork'
